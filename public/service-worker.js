@@ -3,10 +3,10 @@ const FILES_TO_CACHE = [
   "/index.html",
   "/css/style.css",
   "/manifest.webmanifest",
-  "/index.js",
-  "/db.js",
-  "/assets/images/icons/icon-192x192.png",
-  "/assets/images/icons/icon-512x512.png",
+  "/js/index.js",
+  "/js/db.js",
+  "/icons/exampleicon-192x192.png",
+  "/icons/exampleicon-512x512.png",
 ];
 
 const CACHE_NAME = "static-cache-v2";
